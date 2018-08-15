@@ -1,8 +1,6 @@
-# Hello
+# Basic Computational Physics
 
-## Test readme Page
-
-some writing
+Here are some Jupyter notebooks used in my physics classes
 
 
 1. a list
